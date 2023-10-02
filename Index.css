@@ -1,0 +1,9 @@
+::after{
+    color: white;
+}
+.colortext{
+    color: white;
+}
+nav-link:hover{
+    color: red;
+}
